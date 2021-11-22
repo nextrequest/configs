@@ -1,0 +1,22 @@
+{
+  "name": "@nextrequestco/prettier-config",
+  "version": "1.0.0-rc.0",
+  "author": "NextRequest Engineering <engineering@nextrequest.com>",
+  "homepage": "https://github.com/nextrequest/configs#readme",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextrequest/configs.git"
+  },
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/nextrequest/configs/issues"
+  },
+  "peerDependencies": {
+    "prettier": "2.4.1"
+  },
+  "dependencies": {
+    "standard-eslint-prettier": "^1.0.1"
+  }
+}
