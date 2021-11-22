@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.2](https://github.com/nextrequest/configs/compare/@nextrequestco/prettier-config@1.1.1...@nextrequestco/prettier-config@1.1.2) (2021-11-22)
+
+**Note:** Version bump only for package @nextrequestco/prettier-config
+
+
+
+
+
 ## [1.1.1](https://github.com/nextrequest/configs/compare/@nextrequestco/prettier-config@1.1.0...@nextrequestco/prettier-config@1.1.1) (2021-11-22)
 
 **Note:** Version bump only for package @nextrequestco/prettier-config
