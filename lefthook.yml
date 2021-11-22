@@ -1,0 +1,13 @@
+pre-commit:
+  parallel: true
+  commands:
+    eslint:
+      glob: "*.{js,ts}"
+      run: npx eslint {staged_files}
+    prettier:
+      glob: "*.{js,ts,yml,yaml}"
+      run: npx prettier --check {staged_files}
+commit-msg:
+  commands:
+    lint-commit-msg:
+      run: npx commitlint --edit
