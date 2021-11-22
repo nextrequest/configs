@@ -1,0 +1,19 @@
+{
+  "name": "@nextrequestco/typescript-config",
+  "version": "1.0.0-rc.0",
+  "author": "NextRequest Engineering <engineering@nextrequest.com>",
+  "homepage": "https://github.com/nextrequest/configs#readme",
+  "license": "UNLICENSED",
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextrequest/configs.git"
+  },
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/nextrequest/configs/issues"
+  },
+  "peerDependencies": {
+    "typescript": ">=3.3.1 <4.6.0"
+  }
+}
