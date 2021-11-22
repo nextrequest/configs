@@ -1,0 +1,11 @@
+{
+  "name": "@nextrequestco/configs",
+  "version": "1.0.0",
+  "description": "NextRequest module configuration presets",
+  "scripts": {},
+  "author": "NextRequest Engineering <engineering@nextrequest.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "lerna": "4.0.0"
+  }
+}
