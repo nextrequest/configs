@@ -1,3 +1,3 @@
 module.exports = {
-  ...require("@nextrequestco/prettier-config"),
-};
+  ...require('@nextrequestco/prettier-config')
+}

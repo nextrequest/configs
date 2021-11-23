@@ -1,3 +1,3 @@
 module.exports = {
-  extends: "@nextrequestco/eslint-config",
-};
+  extends: '@nextrequestco/eslint-config'
+}

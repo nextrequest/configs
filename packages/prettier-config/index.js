@@ -1,3 +1,6 @@
 module.exports = {
-  ...require('standard-eslint-prettier/prettier')
+  trailingComma: 'none',
+  tabWidth: 2,
+  semi: false,
+  singleQuote: true
 }

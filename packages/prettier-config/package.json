@@ -15,8 +15,5 @@
   },
   "peerDependencies": {
     "prettier": "2.4.1"
-  },
-  "dependencies": {
-    "standard-eslint-prettier": "^1.0.1"
   }
 }
