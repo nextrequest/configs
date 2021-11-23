@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.3](https://github.com/nextrequest/configs/compare/@nextrequestco/eslint-config@1.2.2...@nextrequestco/eslint-config@1.2.3) (2021-11-23)
+
+
+### Bug Fixes
+
+* explicitly set file extension when importing ([84c3ece](https://github.com/nextrequest/configs/commit/84c3ece5e074cad3538c09bac2fd2fd8b7517ac3))
+
+
+
+
+
 ## [1.2.2](https://github.com/nextrequest/configs/compare/@nextrequestco/eslint-config@1.2.1...@nextrequestco/eslint-config@1.2.2) (2021-11-22)
 
 **Note:** Version bump only for package @nextrequestco/eslint-config

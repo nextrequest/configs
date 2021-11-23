@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.3](https://github.com/nextrequest/configs/compare/@nextrequestco/prettier-config@1.1.2...@nextrequestco/prettier-config@1.1.3) (2021-11-23)
+
+
+### Bug Fixes
+
+* explicitly set file extension when importing ([84c3ece](https://github.com/nextrequest/configs/commit/84c3ece5e074cad3538c09bac2fd2fd8b7517ac3))
+
+
+
+
+
 ## [1.1.2](https://github.com/nextrequest/configs/compare/@nextrequestco/prettier-config@1.1.1...@nextrequestco/prettier-config@1.1.2) (2021-11-22)
 
 **Note:** Version bump only for package @nextrequestco/prettier-config
