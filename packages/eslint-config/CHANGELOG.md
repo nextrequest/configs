@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.4](https://github.com/nextrequest/configs/compare/@nextrequestco/eslint-config@1.2.3...@nextrequestco/eslint-config@1.2.4) (2021-11-23)
+
+
+### Bug Fixes
+
+* **eslint-config:** add prettier plugin ([25aec8c](https://github.com/nextrequest/configs/commit/25aec8c36419c3b5aa98a8543b31d5a7b8debbb0))
+
+
+
+
+
 ## [1.2.3](https://github.com/nextrequest/configs/compare/@nextrequestco/eslint-config@1.2.2...@nextrequestco/eslint-config@1.2.3) (2021-11-23)
 
 
