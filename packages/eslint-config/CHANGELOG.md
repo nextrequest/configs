@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/nextrequest/configs/compare/@nextrequestco/eslint-config@1.2.5...@nextrequestco/eslint-config@1.3.0) (2021-11-24)
+
+
+### Features
+
+* **eslint-config:** adjust no-used-vars to use [@ts-eslint](https://github.com/ts-eslint) rule ([086562d](https://github.com/nextrequest/configs/commit/086562da7b6e9fe999ad30611e34da50f5526ad7))
+
+
+
+
+
 ## [1.2.5](https://github.com/nextrequest/configs/compare/@nextrequestco/eslint-config@1.2.4...@nextrequestco/eslint-config@1.2.5) (2021-11-24)
 
 
