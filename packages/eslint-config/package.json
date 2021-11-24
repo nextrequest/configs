@@ -14,9 +14,7 @@
     "url": "https://github.com/nextrequest/configs/issues"
   },
   "peerDependencies": {
-    "eslint": ">=6 <9"
-  },
-  "dependencies": {
+    "eslint": ">=6 <8",
     "@typescript-eslint/eslint-plugin": "^5.3.1",
     "@typescript-eslint/parser": "^5.3.1",
     "eslint-config-prettier": "^8.3.0",
