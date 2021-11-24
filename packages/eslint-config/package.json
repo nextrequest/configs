@@ -1,6 +1,6 @@
 {
   "name": "@nextrequestco/eslint-config",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "author": "NextRequest Engineering <engineering@nextrequest.com>",
   "homepage": "https://github.com/nextrequest/configs#readme",
   "license": "UNLICENSED",
@@ -14,9 +14,9 @@
     "url": "https://github.com/nextrequest/configs/issues"
   },
   "peerDependencies": {
-    "eslint": ">=6 <8",
     "@typescript-eslint/eslint-plugin": "^5.3.1",
     "@typescript-eslint/parser": "^5.3.1",
+    "eslint": ">=6 <8",
     "eslint-config-prettier": "^8.3.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.25.3",

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.5](https://github.com/nextrequest/configs/compare/@nextrequestco/eslint-config@1.2.4...@nextrequestco/eslint-config@1.2.5) (2021-11-24)
+
+
+### Bug Fixes
+
+* **eslint-config:** move deps into peerDeps ([6ef22a2](https://github.com/nextrequest/configs/commit/6ef22a2942ce91c15babc759c63c00097610b84c))
+
+
+
+
+
 ## [1.2.4](https://github.com/nextrequest/configs/compare/@nextrequestco/eslint-config@1.2.3...@nextrequestco/eslint-config@1.2.4) (2021-11-23)
 
 
