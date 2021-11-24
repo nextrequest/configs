@@ -12,5 +12,14 @@ module.exports = {
   },
   plugins: ['prettier', '@typescript-eslint'],
   ignorePatterns: ['!.prettier*', '!.eslintrc'],
-  rules: {}
+  rules: {
+    'prettier/prettier': 'error',
+    'no-unused-vars': 'off',
+    '@typescript-eslint/no-unused-vars': [
+      'error',
+      {
+        argsIgnorePattern: '^_'
+      }
+    ]
+  }
 }
