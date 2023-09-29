@@ -11,7 +11,7 @@
     "@nextrequestco/eslint-config": "file:packages/eslint-config",
     "@nextrequestco/prettier-config": "file:packages/prettier-config",
     "@nextrequestco/typescript-config": "file:packages/typescript-config",
-    "eslint": "^7.32.0",
+    "eslint": "^8.50.0",
     "lerna": "4.0.0",
     "prettier": "2.4.1",
     "typescript": "^4.5.2"
