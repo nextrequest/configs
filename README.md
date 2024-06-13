@@ -14,12 +14,12 @@ npm install | yarn add @nextrequestco/typescript-config@latest
 ## Updating release version
 
 1. Create a new branch
-2. cd into the correct package you want to update. For example `configs/packages/typescript-config` then run the lerna version command.
+2. cd into the correct package you want to update. For example `configs/packages/typescript-config` then run the lerna publish command.
 
 ref: https://lerna.js.org/docs/features/version-and-publish
 
 ```
-npx lerna version
+npx lerna publish
 ```
 
 3. Make sure the new version is pushed into the new branch
