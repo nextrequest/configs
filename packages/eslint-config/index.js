@@ -20,6 +20,19 @@ module.exports = {
       {
         argsIgnorePattern: '^_'
       }
+    ],
+    // Enforce that interface names do not begin with an I.
+    // Taken from https://typescript-eslint.io/rules/naming-convention/#enforce-that-interface-names-do-not-begin-with-an-i
+    "@typescript-eslint/naming-convention": [
+      "error",
+      {
+        "selector": "interface",
+        "format": ["PascalCase"],
+        "custom": {
+          "regex": "^I[A-Z]",
+          "match": false
+        }
+      }
     ]
   }
 }
